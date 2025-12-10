@@ -1,0 +1,18 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist with strong experience in Python and Machine Learning.
+The candidate should be skilled in data analysis, statistics, and model building.
+
+Required Skills:
+- Python
+- Machine Learning
+- Pandas, NumPy
+- SQL
+- Data Visualization
+- Statistics
+
+Responsibilities:
+- Analyze large datasets
+- Build predictive models
+- Work with cross-functional teams
+
