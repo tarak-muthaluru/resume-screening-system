@@ -7,7 +7,7 @@ from embedding import get_embedding, similarity
 from resume_sections import extract_resume_sections  # NEW: for skills/experience sections
 
 # ----- Page config -----
-st.set_page_config(page_title=""Resume Match Score"")
+st.set_page_config(page_title="Resume Match Score")
 
 st.title("Resume Match Score")
 st.write("This app compares a Job Description (JD) with one or more resume PDFs and shows match scores (overall, skills, experience).")
